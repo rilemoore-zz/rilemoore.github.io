@@ -11,4 +11,4 @@ permalink:  flatiron_project_1
 
    Overall I really enjoyed this project for what it was, it was new to me and the potential applications of this knowledge is quite vast and could be useful in some of my future projects I have in mind for myself.
 
-Riley Moore
+Riley F Moore
