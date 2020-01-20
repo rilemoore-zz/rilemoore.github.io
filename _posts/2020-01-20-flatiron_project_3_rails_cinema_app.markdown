@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Flatiron Project 3: Rails Cinema App"
-date:       2020-01-20 21:55:55 +0000
+date:       2020-01-20 16:55:56 -0500
 permalink:  flatiron_project_3_rails_cinema_app
 ---
 
